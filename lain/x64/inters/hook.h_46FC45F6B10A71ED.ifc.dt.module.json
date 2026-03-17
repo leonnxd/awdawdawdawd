@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\hook.obj",
+            "outputs": [
+                "x64\\inters\\hook.h_46FC45F6B10A71ED.ifc.dt.module.json",
+                "x64\\inters\\hook.h_46FC45F6B10A71ED.ifc.dt.d.json",
+                "x64\\inters\\hook.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\shah\\Downloads\\lain keyless\\lain\\features\\hook.h",
+                    "source-path": "c:\\users\\shah\\downloads\\lain keyless\\lain\\features\\hook.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

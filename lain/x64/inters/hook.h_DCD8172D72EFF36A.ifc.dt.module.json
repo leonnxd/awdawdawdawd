@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\hook.obj",
+            "outputs": [
+                "x64\\inters\\hook.h_DCD8172D72EFF36A.ifc.dt.module.json",
+                "x64\\inters\\hook.h_DCD8172D72EFF36A.ifc.dt.d.json",
+                "x64\\inters\\hook.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\paranoia\\Downloads\\lain keyless\\lain keyless\\lain\\features\\hook.h",
+                    "source-path": "c:\\users\\paranoia\\downloads\\lain keyless\\lain keyless\\lain\\features\\hook.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

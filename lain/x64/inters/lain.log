@@ -1,0 +1,930 @@
+﻿  Verificando fontes para dependências de módulo...
+  hook.h
+  configsystem.h
+  Compilando...
+  configsystem.h
+  hook.h
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/hook.h')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/config/configsystem.h')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\json\json.h(17176,23): warning C5260: a variável constante 'nlohmann::json_abi_v3_11_2::detail::dtoa_impl::kAlpha' tem ligação interna em um contexto de arquivo de cabeçalho incluído, mas ligação externa em contexto de unidade de cabeçalho importada; considere declará-lo 'inline' também se for compartilhado entre unidades de tradução ou 'estático' para expressar a intenção de usá-lo localmente para esta unidade de tradução
+  (compilando o arquivo fonte 'util/config/configsystem.h')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\json\json.h(17177,23): warning C5260: a variável constante 'nlohmann::json_abi_v3_11_2::detail::dtoa_impl::kGamma' tem ligação interna em um contexto de arquivo de cabeçalho incluído, mas ligação externa em contexto de unidade de cabeçalho importada; considere declará-lo 'inline' também se for compartilhado entre unidades de tradução ou 'estático' para expressar a intenção de usá-lo localmente para esta unidade de tradução
+  (compilando o arquivo fonte 'util/config/configsystem.h')
+  
+  overlay.cpp
+  entry.cpp
+  aimbot.cpp
+  anti_aim.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      ver a definição anterior de "DXGI_STATUS_OCCLUDED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      ver a definição anterior de "DXGI_STATUS_CLIPPED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      ver a definição anterior de "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      ver a definição anterior de "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59318,9):
+      ver a definição anterior de "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59327,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59336,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      ver a definição anterior de "DXGI_ERROR_INVALID_CALL"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      ver a definição anterior de "DXGI_ERROR_MORE_DATA"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59378,9):
+      ver a definição anterior de "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59387,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59396,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59406,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59415,9):
+      ver a definição anterior de "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59425,9):
+      ver a definição anterior de "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59434,9):
+      ver a definição anterior de "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59444,9):
+      ver a definição anterior de "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59453,9):
+      ver a definição anterior de "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59462,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59472,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59481,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59796,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59805,9):
+      ver a definição anterior de "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59815,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59824,9):
+      ver a definição anterior de "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59772,9):
+      ver a definição anterior de "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59781,9):
+      ver a definição anterior de "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/combat/modules/aimbot.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/combat/modules/anti_aim.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(27,31): warning C4305: 'inicializando': truncamento de '__int64' para 'const uint32_t'
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(27,33): warning C4309: 'inicializando': truncamento de valor constante
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(63,39): warning C4333: '>>': right shift por valor muito grande, perda de dados
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(64,39): warning C4333: '>>': right shift por valor muito grande, perda de dados
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(79,29): warning C4305: '=': truncamento de 'const uint32_t' para 'WORD'
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(79,29): warning C4309: '=': truncamento de valor constante
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(80,29): warning C4305: '=': truncamento de 'const uint32_t' para 'WORD'
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(80,29): warning C4309: '=': truncamento de valor constante
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(81,29): warning C4305: '=': truncamento de 'const uint32_t' para 'WORD'
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(81,29): warning C4309: '=': truncamento de valor constante
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(82,29): warning C4305: '=': truncamento de 'const uint32_t' para 'WORD'
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(82,29): warning C4309: '=': truncamento de valor constante
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(89,38): warning C4267: '+=': conversão de 'size_t' para 'WORD', possível perda de dados
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(92,34): warning C4267: '+=': conversão de 'size_t' para 'WORD', possível perda de dados
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(127,40): warning C4267: '+=': conversão de 'size_t' para 'WORD', possível perda de dados
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\protection\hashes\hash.h(130,34): warning C4267: '+=': conversão de 'size_t' para 'WORD', possível perda de dados
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(17,9): warning C4005: 'max': redefinição de macro
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(193,9):
+      ver a definição anterior de "max"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(19,9): warning C4005: 'min': redefinição de macro
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(197,9):
+      ver a definição anterior de "min"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(42,16): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(129,28): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(148,121): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(182,141): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(363,61): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\aimbot.cpp(364,67): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\notification\notification.h(8,9): warning C4005: 'max': redefinição de macro
+  (compilando o arquivo fonte 'drawing/overlay/overlay.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(193,9):
+      ver a definição anterior de "max"
+  
+  orbit.cpp
+  silent.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'entry.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\entry.cpp(573,38): warning C4101: 'e': variável local não referenciada
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(767,71): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(1222,24): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(1337,61): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(1338,67): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(1986,77): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2452,125): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2452,78): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2534,36): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2583,140): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2588,133): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2632,160): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2637,153): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2666,129): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(2666,82): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\overlay.cpp(3533,36): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/combat/modules/orbit.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/combat/modules/silent.cpp')
+  
+  triggerbot.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\combat\modules\silent.cpp(299,40): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  modules.cpp
+  misc.cpp
+  autofriend.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/combat/modules/triggerbot.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/misc/misc.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/misc/modules/autofriend.cpp')
+  
+  flight.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      ver a definição anterior de "DXGI_STATUS_OCCLUDED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      ver a definição anterior de "DXGI_STATUS_CLIPPED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      ver a definição anterior de "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      ver a definição anterior de "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59318,9):
+      ver a definição anterior de "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59327,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59336,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      ver a definição anterior de "DXGI_ERROR_INVALID_CALL"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      ver a definição anterior de "DXGI_ERROR_MORE_DATA"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59378,9):
+      ver a definição anterior de "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59387,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59396,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59406,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59415,9):
+      ver a definição anterior de "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59425,9):
+      ver a definição anterior de "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59434,9):
+      ver a definição anterior de "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59444,9):
+      ver a definição anterior de "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59453,9):
+      ver a definição anterior de "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59462,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59472,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59481,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59796,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59805,9):
+      ver a definição anterior de "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59815,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59824,9):
+      ver a definição anterior de "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59772,9):
+      ver a definição anterior de "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'features/hooking/modules.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59781,9):
+      ver a definição anterior de "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(297,56): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(298,62): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(302,106): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(303,112): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(563,60): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(564,66): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(568,110): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\hooking\modules.cpp(569,116): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  nojumpcooldown.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\misc\modules\autofriend.cpp(184,76): warning C4101: 'e': variável local não referenciada
+  speed.cpp
+  esp.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/misc/modules/flight.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/misc/modules/nojumpcooldown.cpp')
+  
+  wallcheck.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/misc/modules/speed.cpp')
+  
+  entity_cache.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/visuals/modules/esp.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\visuals\modules\esp.cpp(554,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\visuals\modules\esp.cpp(787,48): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\visuals\modules\esp.cpp(788,54): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\visuals\modules\esp.cpp(880,37): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\visuals\modules\esp.cpp(881,40): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\visuals\modules\esp.cpp(1127,38): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\features\visuals\modules\esp.cpp(1134,38): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  teamcheck.cpp
+  cache.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'features/wallcheck/wallcheck.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      ver a definição anterior de "DXGI_STATUS_OCCLUDED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      ver a definição anterior de "DXGI_STATUS_CLIPPED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      ver a definição anterior de "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      ver a definição anterior de "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59318,9):
+      ver a definição anterior de "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59327,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59336,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      ver a definição anterior de "DXGI_ERROR_INVALID_CALL"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      ver a definição anterior de "DXGI_ERROR_MORE_DATA"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59378,9):
+      ver a definição anterior de "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59387,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59396,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59406,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59415,9):
+      ver a definição anterior de "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59425,9):
+      ver a definição anterior de "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59434,9):
+      ver a definição anterior de "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59444,9):
+      ver a definição anterior de "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59453,9):
+      ver a definição anterior de "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59462,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59472,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59481,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59796,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59805,9):
+      ver a definição anterior de "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59815,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59824,9):
+      ver a definição anterior de "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59772,9):
+      ver a definição anterior de "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/entity_cache/entity_cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59781,9):
+      ver a definição anterior de "D3D10_ERROR_FILE_NOT_FOUND"
+  
+  camera.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/teamcheck.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/cache.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      ver a definição anterior de "DXGI_STATUS_OCCLUDED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      ver a definição anterior de "DXGI_STATUS_CLIPPED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      ver a definição anterior de "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      ver a definição anterior de "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59318,9):
+      ver a definição anterior de "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59327,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59336,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      ver a definição anterior de "DXGI_ERROR_INVALID_CALL"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      ver a definição anterior de "DXGI_ERROR_MORE_DATA"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59378,9):
+      ver a definição anterior de "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59387,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59396,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59406,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59415,9):
+      ver a definição anterior de "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59425,9):
+      ver a definição anterior de "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59434,9):
+      ver a definição anterior de "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59444,9):
+      ver a definição anterior de "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59453,9):
+      ver a definição anterior de "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59462,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59472,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59481,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59796,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59805,9):
+      ver a definição anterior de "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59815,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59824,9):
+      ver a definição anterior de "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59772,9):
+      ver a definição anterior de "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/cache.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59781,9):
+      ver a definição anterior de "D3D10_ERROR_FILE_NOT_FOUND"
+  
+  color.cpp
+  entity.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/classes/camera/camera.cpp')
+  
+  instance.cpp
+  part.cpp
+  silenthelper.cpp
+  classes.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/classes/instance/instance.cpp')
+  
+  configsystem.cpp
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/classes/silenthelper/silenthelper.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(12,9): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      ver a definição anterior de "DXGI_STATUS_OCCLUDED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(13,9): warning C4005: 'DXGI_STATUS_CLIPPED': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      ver a definição anterior de "DXGI_STATUS_CLIPPED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(14,9): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      ver a definição anterior de "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(15,9): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59309,9):
+      ver a definição anterior de "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(16,9): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59318,9):
+      ver a definição anterior de "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(17,9): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59327,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(18,9): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59336,9):
+      ver a definição anterior de "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(21,9): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      ver a definição anterior de "DXGI_ERROR_INVALID_CALL"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(22,9): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(23,9): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59369,9):
+      ver a definição anterior de "DXGI_ERROR_MORE_DATA"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(24,9): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59378,9):
+      ver a definição anterior de "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(25,9): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59387,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(26,9): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59396,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(27,9): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59406,9):
+      ver a definição anterior de "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(28,9): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59415,9):
+      ver a definição anterior de "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(29,9): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59425,9):
+      ver a definição anterior de "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(30,9): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59434,9):
+      ver a definição anterior de "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(31,9): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59444,9):
+      ver a definição anterior de "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(32,9): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59453,9):
+      ver a definição anterior de "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(33,9): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59462,9):
+      ver a definição anterior de "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(34,9): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59472,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\dxgitype.h(35,9): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59481,9):
+      ver a definição anterior de "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(917,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59796,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(918,9): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59805,9):
+      ver a definição anterior de "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(919,9): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59815,9):
+      ver a definição anterior de "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d11.h(920,9): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59824,9):
+      ver a definição anterior de "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(608,9): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59772,9):
+      ver a definição anterior de "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\libs\Microsoft DirectX SDK\Include\d3d10.h(609,9): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinição de macro
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59781,9):
+      ver a definição anterior de "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/classes/startup/classes.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\drawing\overlay\keybind\keybind.h(37,17): warning C4091: 'static ': ignorado à esquerda de 'keybind::c_keybind_type' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'util/config/configsystem.cpp')
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\notification\notification.h(8,9): warning C4005: 'max': redefinição de macro
+  (compilando o arquivo fonte 'util/config/configsystem.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(193,9):
+      ver a definição anterior de "max"
+  
+C:\Users\sillage\Downloads\lain keyless\lain keyless\lain\util\notification\notification.h(10,9): warning C4005: 'min': redefinição de macro
+  (compilando o arquivo fonte 'util/config/configsystem.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(197,9):
+      ver a definição anterior de "min"
+  
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Gerando código
+  496 of 11384 functions ( 4.4%) were compiled, the rest were copied from previous compilation.
+    132 functions were new in current compilation
+    90 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  lain.vcxproj -> C:\Users\sillage\Downloads\lain keyless\lain keyless\release\lain.exe

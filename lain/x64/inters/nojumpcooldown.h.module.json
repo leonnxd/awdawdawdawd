@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\nojumpcooldown.h.obj",
+            "outputs": [
+                "C:\\Users\\sillage\\Downloads\\lain keyless\\lain keyless\\lain\\x64\\inters\\vc143.pdb",
+                "x64\\inters\\",
+                "C:\\Users\\sillage\\Downloads\\lain keyless\\lain keyless\\lain\\x64\\inters\\nojumpcooldown.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "features\\misc\\modules\\nojumpcooldown.h",
+                    "source-path": "c:\\users\\sillage\\downloads\\lain keyless\\lain keyless\\lain\\features\\misc\\modules\\nojumpcooldown.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

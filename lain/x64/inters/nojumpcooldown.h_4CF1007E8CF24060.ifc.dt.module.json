@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\nojumpcooldown.obj",
+            "outputs": [
+                "x64\\inters\\nojumpcooldown.h_4CF1007E8CF24060.ifc.dt.module.json",
+                "x64\\inters\\nojumpcooldown.h_4CF1007E8CF24060.ifc.dt.d.json",
+                "x64\\inters\\nojumpcooldown.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\YOUTUBE EXTERNAL SKID\\lain keyless\\lain keyless\\lain\\features\\misc\\modules\\nojumpcooldown.h",
+                    "source-path": "d:\\youtube external skid\\lain keyless\\lain keyless\\lain\\features\\misc\\modules\\nojumpcooldown.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

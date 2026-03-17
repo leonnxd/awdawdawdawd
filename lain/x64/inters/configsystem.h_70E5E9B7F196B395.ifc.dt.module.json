@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\configsystem.obj",
+            "outputs": [
+                "x64\\inters\\configsystem.h_70E5E9B7F196B395.ifc.dt.module.json",
+                "x64\\inters\\configsystem.h_70E5E9B7F196B395.ifc.dt.d.json",
+                "x64\\inters\\configsystem.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\paranoia\\Downloads\\lain keyless\\lain keyless\\lain\\util\\config\\configsystem.h",
+                    "source-path": "c:\\users\\paranoia\\downloads\\lain keyless\\lain keyless\\lain\\util\\config\\configsystem.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

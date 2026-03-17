@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\hook.obj",
+            "outputs": [
+                "x64\\inters\\hook.h_69DD4301D0A7B090.ifc.dt.module.json",
+                "x64\\inters\\hook.h_69DD4301D0A7B090.ifc.dt.d.json",
+                "x64\\inters\\hook.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\YOUTUBE EXTERNAL SKID\\lain keyless\\lain keyless\\lain\\features\\hook.h",
+                    "source-path": "d:\\youtube external skid\\lain keyless\\lain keyless\\lain\\features\\hook.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

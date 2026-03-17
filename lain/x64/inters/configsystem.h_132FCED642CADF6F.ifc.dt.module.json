@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\configsystem.obj",
+            "outputs": [
+                "x64\\inters\\configsystem.h_132FCED642CADF6F.ifc.dt.module.json",
+                "x64\\inters\\configsystem.h_132FCED642CADF6F.ifc.dt.d.json",
+                "x64\\inters\\configsystem.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\YOUTUBE EXTERNAL SKID\\lain keyless\\lain keyless\\lain\\util\\config\\configsystem.h",
+                    "source-path": "d:\\youtube external skid\\lain keyless\\lain keyless\\lain\\util\\config\\configsystem.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

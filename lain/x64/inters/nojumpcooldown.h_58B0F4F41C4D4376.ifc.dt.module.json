@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\inters\\nojumpcooldown.obj",
+            "outputs": [
+                "x64\\inters\\nojumpcooldown.h_58B0F4F41C4D4376.ifc.dt.module.json",
+                "x64\\inters\\nojumpcooldown.h_58B0F4F41C4D4376.ifc.dt.d.json",
+                "x64\\inters\\nojumpcooldown.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\paranoia\\Downloads\\lain keyless\\lain keyless\\lain\\features\\misc\\modules\\nojumpcooldown.h",
+                    "source-path": "c:\\users\\paranoia\\downloads\\lain keyless\\lain keyless\\lain\\features\\misc\\modules\\nojumpcooldown.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
